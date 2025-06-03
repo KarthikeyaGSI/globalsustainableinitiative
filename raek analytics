@@ -1,0 +1,12 @@
+					<!-- Start RAEK Code for globalsustainableinitiative.netlify.app -->
+					<script>
+					(function(window, document, id){
+					    var script = document.createElement('script');
+					    script.id = 'raekTag';
+					    script.type = 'text/javascript';
+					    script.src = 'https://cdn.raek.net/js/raek.min.js?id='+id;
+					    script.async = true;
+					    document.getElementsByTagName('head')[0].appendChild(script);
+					})(window, document, "94bbe29812ff50deaa0285c7583af76109a98a53ab41433fded383ba2408d7cc25d58968ff0b3ec739302d1ef09a936450be1b6b647e12031965b7ff0d3033a9");
+					</script>
+					<!-- End RAEK Code -->				
